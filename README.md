@@ -1,8 +1,8 @@
 # Hello there 👋
 
 ## 🎷🐛 About me:
-- 🔭 I’m currently working on developing my portfolio website and updating my blog web application
-- 🌱 I’m currently learning web development technologies (React, Vue.js, Django)
+- 🔭 I’m currently working on an exciting project involving a chatbot 👀
+- 🌱 I’m currently learning web development technologies (React, Vue.js, Django) and neural networks
 - ⚡ Fun fact: My top 15 songs in my Apple Replay 2023 consists of tracks from the La La Land soundtrack album
 
 ## 📲 Reach out to me:
@@ -14,3 +14,7 @@
 </a>
 
 ## 👨‍💻 Tech Stack:
+![Static Badge](https://img.shields.io/badge/python-4584b6?style=flat&logo=python&logoColor=%23ffde57)
+![Static Badge](https://img.shields.io/badge/HTML-%23323330?style=flat&logo=html5&logoColor=%23E34F26)
+![Static Badge](https://img.shields.io/badge/CSS-%23323330?style=flat&logo=css3&logoColor=%231572B6)
+![Static Badge](https://img.shields.io/badge/Javascript-%23323330?style=flat&logo=javascript&logoColor=%23F7DF1E)
