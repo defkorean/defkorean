@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
 
-## 👨‍💻 Tech Stack:
+## 👨‍💻 Tech Stack (Incomplete):
 ![Static Badge](https://img.shields.io/badge/python-4584b6?style=flat&logo=python&logoColor=%23ffde57)
 ![Static Badge](https://img.shields.io/badge/HTML-%23323330?style=flat&logo=html5&logoColor=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/CSS-%23323330?style=flat&logo=css3&logoColor=%231572B6)
