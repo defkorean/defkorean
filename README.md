@@ -1,8 +1,7 @@
 # Hello there 👋
 
 ## 🎷🐛 About me:
-- 🔭 I’m currently working on an exciting project involving a chatbot 👀
-- 🌱 I’m currently learning web development technologies (React, Vue.js, Django) and neural networks
+- 🌱 I’m currently learning cloud development technologies (Google Cloud, AWS)
 - ⚡ Fun fact: My top 15 songs in my Apple Replay 2023 consists of tracks from the La La Land soundtrack album
 
 ## 📲 Reach out to me:
